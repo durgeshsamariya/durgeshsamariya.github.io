@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Durgesh Samariya"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Durgesh Samariya"
 description              : &description "personal description"
 url                      : https://themlphdstudent.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "themlphdstudent/themlphdstudent.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -62,7 +62,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 :  "profile.jpg"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Durgesh Samariya"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Ph.D. student @ School of Engineering, IT and Physical Sciences, Federation University, Australia"
   location         : "Melbourne, Australia"
-  employer         :
+  employer         : "Federation University"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=QHkjuqYAAAAJ&hl=en"
-  email            :
+  email            : "samariya.durgesh@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
