@@ -11,9 +11,9 @@ title                    : "Durgesh Samariya"
 title_separator          : "-"
 name                     : &name "Durgesh Samariya"
 description              : &description "personal description"
-url                      : https://themlphdstudent.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://durgeshsamariya.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "themlphdstudent/themlphdstudent.github.io"
+repository               : "durgeshsamariya/durgeshsamariya.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "themlphdstudent"
+  github           : "durgeshsamariya"
   google_plus      :
   keybase          :
   instagram        :
