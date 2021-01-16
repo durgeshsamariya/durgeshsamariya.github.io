@@ -10,7 +10,7 @@ main:
     url: /publications/
 
   - title: "Blog"
-    url: /year-archive/
+    url: /blog/
 
   - title: "Contacts"
     url: /contacts/
