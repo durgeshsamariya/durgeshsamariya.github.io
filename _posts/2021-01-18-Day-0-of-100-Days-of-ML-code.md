@@ -1,6 +1,6 @@
 ---
 title: '100 Days of Machine Learning Code'
-date: 2021-01-16
+date: 2021-01-18
 permalink: /posts/2021/01/Day-0-of-100-Days-of-ML-code/
 tags:
   - 100DaysofMLCode
@@ -29,7 +29,7 @@ My aim throughout this process will be to learn as much as I can with accessible
 
 Last year I did 100 days and then due to some other commitments I was unable to continue. This year again, I am starting this challenge and I will try to continue as long as I can. 
 
-## Day 0 | January 16, 2021
+## Day 0 | January 18, 2021
 
 D-Day is here and finally, I am accepting 100 days of machine learning code challenge.
 
