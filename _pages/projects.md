@@ -11,7 +11,7 @@ Selected Open-Source Projects
 -----------------------------
 Here is the list of my selected open-source projects and code repo.
 
-1. [MLGenerator](https://github.com/durgeshsamariya/MLgenerator)
+## 1. [MLGenerator](https://github.com/durgeshsamariya/MLgenerator)
 
 A web-app to generate code for different machine learning task. 
 
@@ -21,4 +21,5 @@ It is developed in my free time while learning and main motivation is to help ma
 
 Try out MLGenerator : [https://ml-generator.herokuapp.com](https://ml-generator.herokuapp.com)
 
+Checkout Blog: [Generate Machine Learning Code in Few Clicks Using Machine Learning Code Generator](https://medium.com/towards-artificial-intelligence/generate-machine-learning-code-in-few-clicks-using-machine-learning-code-generator-62e4a4f30b23)
 
